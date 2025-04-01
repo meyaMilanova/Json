@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "name": "Naoshima",
+      "coordinates": {
+        "latitude": 34.4667,
+        "longitude": 134.0000
+      },
+      "city": "Naoshima",
+      "country": "Japan",
+      "description": "Known as 'Art Island,' Naoshima is renowned for its contemporary art museums, installations, and sculptures set against a tranquil island backdrop.",
+      "genre": "Art & Design-Inspired Destinations",
+      "image": "https://www.insideasiatours.com/japan/shikoku/naoshima"
+    },
+    {
+      "name": "Barcelona",
+      "coordinates": {
+        "latitude": 41.3851,
+        "longitude": 2.1734
+      },
+      "city": "Barcelona",
+      "country": "Spain",
+      "description": "Famed for Antoni Gaudí's surreal architecture, including the iconic Sagrada Família and Park Güell, Barcelona is a hub of unique and whimsical design.",
+      "genre": "Art & Design-Inspired Destinations",
+      "image": "https://www.daily-choices.com/take-a-trip-to-the-worlds-most-beautiful-cities/46"
+    },
+    {
+      "name": "Copenhagen",
+      "coordinates": {
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "description": "Known for its sleek Scandinavian design, Copenhagen offers attractions like the historic Tivoli Gardens, which exude whimsical charm.",
+      "genre": "Art & Design-Inspired Destinations",
+      "image": "https://www.thetoptentraveler.com/2020/09/13/top-10-sites-in-copenhagen-denmark/"
+    },
+    {
+      "name": "Milan",
+      "coordinates": {
+        "latitude": 45.4642,
+        "longitude": 9.1900
+      },
+      "city": "Milan",
+      "country": "Italy",
+      "description": "As a global fashion and design capital, Milan boasts landmarks like the Duomo di Milano and the Triennale Design Museum.",
+      "genre": "Art & Design-Inspired Destinations",
+      "image": "https://www.daily-choices.com/take-a-trip-to-the-worlds-most-beautiful-cities/46"
+    },
+    {
+      "name": "Amsterdam",
+      "coordinates": {
+        "latitude": 52.3676,
+        "longitude": 4.9041
+      },
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "description": "Home to the Stedelijk Museum and a vibrant creative scene, Amsterdam is renowned for its artistic heritage and picturesque canals.",
+      "genre": "Art & Design-Inspired Destinations",
+      "image": "https://www.lonelyplanet.com/articles/best-things-to-do-in-amsterdam"
+    },
+    {
+      "name": "Lofoten Islands",
+      "coordinates": {
+        "latitude": 68.0736,
+        "longitude": 13.9060
+      },
+      "city": "Lofoten",
+      "country": "Norway",
+      "description": "Characterized by dramatic fjords, charming fishing villages, and the mesmerizing northern lights, the Lofoten Islands offer unparalleled natural beauty.",
+      "genre": "Nature & Unique Landscapes",
+      "image": "https://handluggageonly.co.uk/2015/11/20/10-reasons-why-you-need-to-visit-the-lofoten-islands-in-norway/"
+    },
+    {
+      "name": "Reykjavik & Icelandic Highlands",
+      "coordinates": {
+        "latitude": 64.1355,
+        "longitude": 21.8954
+      },
+      "city": "Reykjavik",
+      "country": "Iceland",
+      "description": "From the vibrant city of Reykjavik to the rugged Icelandic Highlands, experience lava fields, geysers, and black sand beaches.",
+      "genre": "Nature & Unique Landscapes",
+      "image": "https://traveladdicts.net/reykjavik-iceland/"
+    },
+    {
+      "name": "Plitvice Lakes",
+      "coordinates": {
+        "latitude": 44.8658,
+        "longitude": 15.5820
+      },
+      "city": "Plitvička Jezera",
+      "country": "Croatia",
+      "description": "A UNESCO World Heritage site, Plitvice Lakes National Park is famed for its cascading turquoise waterfalls and lush forest landscapes.",
+      "genre": "Nature & Unique Landscapes",
+      "image": "https://www.reddit.com/r/EarthPorn/comments/c4lsba/plitvice_lakes_national_park_croatia_oc_2880x1920/"
+    },
+    {
+      "name": "Fiordland National Park",
+      "coordinates": {
+        "latitude": 45.4167,
+        "longitude": 167.7167
+      },
+      "city": "Te Anau",
+      "country": "New Zealand",
+      "description": "Home to breathtaking fjords like Milford Sound, Fiordland National Park offers stunning hiking trails amidst towering peaks and waterfalls.",
+      "genre": "Nature & Unique Landscapes",
+      "image": "https://www.reddit.com/r/EarthPorn/comments/b7iuz7/views_from_the_sky_at_fiordland_national_park_new/"
+    },
+    {
+      "name": "Torres del Paine",
+      "coordinates": {
+        "latitude": 51.2530,
+        "longitude": 72.3454
+      },
+      "city": "Torres del Paine",
+      "country": "Chile",
+      "description": "Located in Patagonia, Torres del Paine National Park features stunning mountains, bright blue icebergs, and expansive glaciers.",
+      "genre": "Nature & Unique Landscapes",
+      "image": "https://www.bestspents.com/place/exploring-the-natural-beauty-of-torres-del-paine-national-park-chile/"
+    },
+    {
+      "name": "Singapore - Gardens by the Bay",
+      "coordinates": {
+        "latitude": 1.2816,
+        "longitude": 103.8636
+      },
+      "city": "Singapore",
+      "country": "Singapore",
+      "description": "A surreal park featuring futuristic Supertrees, biodomes, and light shows, resembling a sci-fi movie set.",
+      "genre": "Dystopian & Futuristic Vibes",
+      "image": "https://tse1.mm.bing.net/th?q=Gardens+by+the+Bay"
+    },
+    {
+      "name": "Hong Kong",
+      "coordinates": {
+        "latitude": 22.3193,
+        "longitude": 114.1694
+      },
+      "city": "Hong Kong",
+      "country": "China",
+      "description": "A cyberpunk cityscape filled with neon signs, towering skyscrapers, and bustling streets, offering a high-tech urban experience.",
+      "genre": "Dystopian & Futuristic Vibes",
+      "image": "https://tse1.mm.bing.net/th?q=Hong+Kong+cyberpunk"
+    },
+    {
+      "name": "Dubai",
+      "coordinates": {
+        "latitude": 25.276987,
+        "longitude": 55.296249
+      },
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "description": "Known for its surreal architecture, desert landscapes, and artificial islands, Dubai is a vision of the future.",
+      "genre": "Dystopian & Futuristic Vibes",
+      "image": "https://tse1.mm.bing.net/th?q=Dubai+skyline"
+    },
+    {
+      "name": "Tokyo",
+      "coordinates": {
+        "latitude": 35.682839,
+        "longitude": 139.759455
+      },
+      "city": "Tokyo",
+      "country": "Japan",
+      "description": "A city that seamlessly blends high-tech innovation with ancient tradition, offering a truly unique futuristic experience.",
+      "genre": "Dystopian & Futuristic Vibes",
+      "image": "https://tse1.mm.bing.net/th?q=Tokyo+cityscape"
+    },
+    {
+      "name": "Macau",
+      "coordinates": {
+        "latitude": 22.1987,
+        "longitude": 113.5439
+      },
+      "city": "Macau",
+      "country": "China",
+      "description": "A fascinating mix of Portuguese and Chinese influences, Macau feels almost dreamlike with its grand casinos and historic streets.",
+      "genre": "Dystopian & Futuristic Vibes",
+      "image": "https://tse1.mm.bing.net/th?q=Macau+cityscape"
+    },
+    {
+      "name": "Transylvania",
+      "coordinates": {
+        "latitude": 45.0,
+        "longitude": 25.0
+      },
+      "city": "Transylvania",
+      "country": "Romania",
+      "description": "Gothic castles and eerie forests straight out of folklore.",
+      "genre": "Dark & Atmospheric Places",
+      "image": "https://example.com/transylvania-image"
+    },
+    {
+      "name": "Edinburgh",
+      "coordinates": {
+        "latitude": 55.9533,
+        "longitude": -3.1883
+      },
+      "city": "Edinburgh",
+      "country": "Scotland",
+      "description": "Dark academia vibes, medieval streets, and misty hills.",
+      "genre": "Dark & Atmospheric Places",
+      "image": "https://example.com/edinburgh-image"
+    },
+    {
+      "name": "Venice",
+      "coordinates": {
+        "latitude": 45.4408,
+        "longitude": 12.3155
+      },
+      "city": "Venice",
+      "country": "Italy",
+      "description": "Mysterious canals and hidden passageways (off-season).",
+      "genre": "Dark & Atmospheric Places",
+      "image": "https://example.com/venice-image"
+    },
+    {
+      "name": "Pripyat",
+      "coordinates": {
+        "latitude": 51.4045,
+        "longitude": 30.0521
+      },
+      "city": "Pripyat",
+      "country": "Ukraine",
+      "description": "A haunting, abandoned city in the Chernobyl Exclusion Zone.",
+      "genre": "Dark & Atmospheric Places",
+      "image": "https://example.com/pripyat-image"
+    },
+    {
+      "name": "Salem",
+      "coordinates": {
+        "latitude": 42.5195,
+        "longitude": -70.8967
+      },
+      "city": "Salem",
+      "country": "United States",
+      "description": "Witch trials history and an eerie, historic town.",
+      "genre": "Dark & Atmospheric Places",
+      "image": "https://example.com/salem-image"
+    },
+    {
+      "name": "Berlin",
+      "coordinates": {
+        "latitude": 52.5200,
+        "longitude": 13.4050
+      },
+      "city": "Berlin",
+      "country": "Germany",
+      "description": "Alternative art scene, abandoned places, and nightlife.",
+      "genre": "Creative & Alternative Destinations",
+      "image": "https://example.com/berlin-image"
+    },
+    {
+      "name": "Tbilisi",
+      "coordinates": {
+        "latitude": 41.7151,
+        "longitude": 44.8271
+      },
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "description": "Underground art scene and a unique mix of cultures.",
+      "genre": "Creative & Alternative Destinations",
+      "image": "https://example.com/tbilisi-image"
+    },
+    {
+      "name": "Mexico City",
+      "coordinates": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      },
+      "city": "Mexico City",
+      "country": "Mexico",
+      "description": "Vibrant street art, Frida Kahlo’s home, and unique markets.",
+      "genre": "Creative & Alternative Destinations",
+      "image": "https://example.com/mexico-city-image"
+    },
+    {
+      "name": "Marrakech",
+      "coordinates": {
+        "latitude": 31.6295,
+        "longitude": -7.9811
+      },
+      "city": "Marrakech",
+      "country": "Morocco",
+      "description": "Exotic colors, bustling souks, and stunning architecture.",
+      "genre": "Creative & Alternative Destinations",
+      "image": "https://example.com/marrakech-image"
+    },
+    {
+      "name": "Havana",
+      "coordinates": {
+        "latitude": 23.1136,
+        "longitude": -82.3666
+      },
+      "city": "Havana",
+      "country": "Cuba",
+      "description": "Vintage cars, pastel buildings, and a nostalgic atmosphere.",
+      "genre": "Creative & Alternative Destinations",
+      "image": "https://example.com/havana-image"
+    }
+  ]
+}
