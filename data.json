@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "name": "Naoshima",
       "coordinates": {
@@ -301,4 +300,3 @@
       "image": "https://example.com/havana-image"
     }
   ]
-}
