@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "name": "Reykjavik & Icelandic Highlands",
+        "name": "Icelandic Highlands",
         "coordinates": {
             "latitude": 64.1355,
             "longitude": 21.8954
@@ -131,7 +131,7 @@
     },
     {
         "id": 11,
-        "name": "Singapore - Gardens by the Bay",
+        "name": "Gardens by the Bay",
         "coordinates": {
             "latitude": 1.2816,
             "longitude": 103.8636
